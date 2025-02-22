@@ -1,7 +1,7 @@
 {
-  "name": "vite-react-boilerplate",
-  "author": "Ricardo Valdovinos <ricardovaldovinos1996@gmail.com>",
-  "description": "A production ready, batteries included starter template for Vite + React projects",
+  "name": "alumni-client",
+  "author": "Pedro Vieira <pedro@mvpedro.com>",
+  "description": "Client for the Alumni Automação UFSC Site",
   "keywords": [
     "vite",
     "react",
